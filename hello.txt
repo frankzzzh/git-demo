@@ -1,4 +1,5 @@
 hello Dong! hello Git! fixed! next?
+hello Dong! hello Git! hot-fix trying to merge
 hello Dong! hello Git!
 hello Dong! hello Git!
 hello Dong! hello Git!
